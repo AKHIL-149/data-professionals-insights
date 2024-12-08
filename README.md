@@ -20,7 +20,9 @@ This repository contains Power BI dashboards that provide insights into data pro
 - **`videos/dashboard_walkthrough.mp4`** – Video walkthrough of the dashboards.
 - **`images/overview_dashboard.png`** – Screenshot of the Overview Dashboard.
 - **`images/satisfaction_dashboard.png`** – Screenshot of the Satisfaction Dashboard.
-- **`docs/project_overview.pdf`** – Additional documentation.
+- **`docs/data_professional_insight_analysis.pptx`** - Presentation Document
+- **`docs/data_professional_insights_dashboard.pdf`** – Additional documentation.
+- 
 
 ## 🚀 How to Use
 
