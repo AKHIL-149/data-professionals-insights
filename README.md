@@ -5,9 +5,11 @@ This repository contains Power BI dashboards that provide insights into data pro
 ## 📊 Dashboards
 
 1. **Professional Overview & Career Insights Dashboard**
+   ![Overview Dashboard](images/overview_dashboard.png)
    - Analyzes demographics, average salaries, career switches, and job factors influencing new opportunities.
 
 2. **Job Satisfaction & Skills Dashboard**
+   ![Job Satisfaction Dashboard](images/job_satisfaction_dashboard.png)
    - Provides insights into work-life balance, salary satisfaction, and programming language preferences across age groups.
 
 ## 📹 Walkthrough Video
@@ -22,7 +24,7 @@ This repository contains Power BI dashboards that provide insights into data pro
 - **`images/satisfaction_dashboard.png`** – Screenshot of the Satisfaction Dashboard.
 - **`docs/data_professional_insight_analysis.pptx`** - Presentation Document
 - **`docs/data_professional_insights_dashboard.pdf`** – Additional documentation.
-- 
+- **`data_source/global bench markingdataset.xlsx`** - Data Source.
 
 ## 🚀 How to Use
 
